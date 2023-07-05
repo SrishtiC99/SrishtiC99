@@ -1,6 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Srishti 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=SrishtiC99&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrishtiC99&show_icons=true&hide_border=true&&count_private=true" />
+
+![Anshul's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SrishtiC99&layout=compact&show_icons=true)
+
+📫 How to reach me: Connect with me on [Linkedin](https://www.linkedin.com/in/srishti03/)
+
+![](https://komarev.com/ghpvc/?username=SrishtiC99&label=PROFILE+VIEWS&color=blue&style=plastic)
 
 <!--
 **SrishtiC99/SrishtiC99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
