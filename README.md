@@ -6,9 +6,8 @@
 
 📫 How to reach me: Connect with me on [Linkedin](https://www.linkedin.com/in/srishti03/)
 
-![](https://komarev.com/ghpvc/?username=SrishtiC99&label=PROFILE+VIEWS&color=blue&style=plastic)
-
 <!--
+![](https://komarev.com/ghpvc/?username=SrishtiC99&label=PROFILE+VIEWS&color=blue&style=plastic)
 **SrishtiC99/SrishtiC99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
