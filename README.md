@@ -1,9 +1,15 @@
-### Hi there, I'm Srishti 👋
+### Hello there, I'm Srishti 🦄
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrishtiC99&show_icons=true&hide_border=true&&count_private=true" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=SrishtiC99&show_icons=true&&theme=radical&&count_private=true" />
+</a>
 
-![Anshul's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SrishtiC99&layout=compact&show_icons=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrishtiC99&langs_count=8&theme=radical&layout=compact&show_icons=true"/>
+</a>
 
+<br>
+<br>
 📫 How to reach me: Connect with me on [Linkedin](https://www.linkedin.com/in/srishti03/)
 
 <!--
